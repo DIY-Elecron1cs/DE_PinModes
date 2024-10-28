@@ -5,7 +5,7 @@
 ```cpp
 #include <DE_PinModes.h>
 ```
-##объекты
+###объекты
 ```cpp
 PinModes PM;
 ```
