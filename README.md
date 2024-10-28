@@ -1,7 +1,7 @@
 # DE_PinModes
 простая библиотека для управления пинами Arduino
 
-Идея: [https://github.com/Arduino15](Arduino15)
+Идея: 
 
 ## подключение библиотеки
 ```cpp
